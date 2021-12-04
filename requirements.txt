@@ -1,0 +1,5 @@
+colorama
+python-kucoin
+discum
+get-key
+ujson
