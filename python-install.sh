@@ -8,4 +8,4 @@ cd Python-3.10.0
 
 sudo make -s install
 
-python3.10 -m pip install –upgrade pip
+pip3.10 install –upgrade pip
